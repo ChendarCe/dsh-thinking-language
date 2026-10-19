@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Thinking Language",
+    "description": "Make the agent reason in Chinese regardless of the language you use, with an on/off switch and a custom prompt that fully overrides the built-in instruction."
+  }
+}

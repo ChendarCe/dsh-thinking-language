@@ -1,0 +1,6 @@
+# Thinking-language bundle：Host 半注册一个系统提示词 section，Client 半在
+# 设置面板里提供开关和覆盖提示词。两个值都是 volatile 配置，保存在 profile
+# patch 里，重启后仍然生效。
+- insert:
+    - id: thinking-language
+      name: dsh-thinking-language
